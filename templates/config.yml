@@ -1,0 +1,7 @@
+name: zhineng demo
+description: |
+  Demo tomcat service
+version: 0.1
+category: Demo
+maintainer: community
+license:
